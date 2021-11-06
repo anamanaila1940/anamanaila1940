@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anamanaila1940
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Interactive Media
+- 🌱 I’m currently studying Interactive Media
 - 📫 How to reach me manaila.ana@yahoo.com
 
 <!---
