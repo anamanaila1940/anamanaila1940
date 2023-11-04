@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anamanaila1940
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in 3D modelling
 - 🌱 I’m currently working at Oasis Studio
 - 📫 How to reach me manaila.ana@yahoo.com
 
